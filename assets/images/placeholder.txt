@@ -1,0 +1,8 @@
+As imagens reais devem ser adicionadas aqui:
+
+1. logo.png - Logo da marca
+2. dra-lucia.jpg - Foto para o cabeçalho
+3. dra-lucia-full.jpg - Foto para a seção "Quem é a Dra. Lúcia"
+4. favicon.ico - Ícone para a aba do navegador
+
+Por enquanto, estamos usando imagens temporárias para visualização.
